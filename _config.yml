@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guanghui Yue / Personal Homepage"
+title                    : "Guanghui Yue / LAB Homepage"
 title_separator          : "-"
 name                     : &name "Guanghui Yue"
 description              : &description "personal description"
@@ -28,7 +28,7 @@ author:
   location         : "Nanshan District, Shenzhen, China"
   employer         : "Shenzhen University"
   uri              : # URL
-  email            : "[yueguanghui@szu.edu.cn]"(mailto:yueguanghui@szu.edu.cn) 
+  email            : "yueguanghui@szu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -100,16 +100,16 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
- # allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
- # requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
- #   email                : "md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
