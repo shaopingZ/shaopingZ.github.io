@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+This is the github home page of my Multimedia Intelligent Processing and Computer Aided Diagnostic Lab. I'm Yue Guanghui, the head of the laboratory. I obtained my master degree (supervised by [Lin Weisi](https://pages.github.com/)) and PhD degree (supervised by [Lin Weisi](https://pages.github.com/)) from Tianjin  University in 2019 (master-doctor continuous study program). From 2017 to 2019, I worked as a visiting student in the research group of [Prof. Lin Weisi](https://pages.github.com/) (IEEE/IET Fellow), School of Computer Science and Engineering, Nanyang Technological University, Singapore. My research group and I are mainly engaged in the research of medical image analysis, computer-aided diagnosis, image/video quality assessment and optimization, machine learning and their applications. **If you are interested in our research or would like to join us, I would be honored to have you contact me.**
+
 <!-- Carousel Start -->
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -19,7 +21,6 @@ redirect_from:
     <div class="carousel-item">
       <img src="/images/homepage3.png" class="d-block w-100" alt="Image 3 Description">
     </div>
-    <!-- 可以继续添加更多的carousel-item -->
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -31,8 +32,6 @@ redirect_from:
   </a>
 </div>
 <!-- Carousel End -->
-
-This is the github home page of my Multimedia Intelligent Processing and Computer Aided Diagnostic Lab. I'm Yue Guanghui, the head of the laboratory. I obtained my master degree (supervised by [Lin Weisi](https://pages.github.com/)) and PhD degree (supervised by [Lin Weisi](https://pages.github.com/)) from Tianjin  University in 2019 (master-doctor continuous study program). From 2017 to 2019, I worked as a visiting student in the research group of [Prof. Lin Weisi](https://pages.github.com/) (IEEE/IET Fellow), School of Computer Science and Engineering, Nanyang Technological University, Singapore. My research group and I are mainly engaged in the research of medical image analysis, computer-aided diagnosis, image/video quality assessment and optimization, machine learning and their applications. **If you are interested in our research or would like to join us, I would be honored to have you contact me.**
 
 RESENT NEWS 
 ======
