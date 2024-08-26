@@ -11,13 +11,13 @@ redirect_from:
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/image1.png" class="d-block w-100" alt="Image 1 Description">
+      <img src="images/homepage1.jpg" class="d-block w-100" alt="Image 1 Description">
     </div>
     <div class="carousel-item">
-      <img src="images/image2.png" class="d-block w-100" alt="Image 2 Description">
+      <img src="images/homepage2.jpg" class="d-block w-100" alt="Image 2 Description">
     </div>
     <div class="carousel-item">
-      <img src="images/image3.png" class="d-block w-100" alt="Image 3 Description">
+      <img src="images/homepage3.jpg" class="d-block w-100" alt="Image 3 Description">
     </div>
     <!-- 可以继续添加更多的carousel-item -->
   </div>
