@@ -11,13 +11,13 @@ redirect_from:
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/homepage1.jpg" class="d-block w-100" alt="Image 1 Description">
+      <img src="images/homepage1.png" class="d-block w-100" alt="Image 1 Description">
     </div>
     <div class="carousel-item">
-      <img src="images/homepage2.jpg" class="d-block w-100" alt="Image 2 Description">
+      <img src="images/homepage2.png" class="d-block w-100" alt="Image 2 Description">
     </div>
     <div class="carousel-item">
-      <img src="images/homepage3.jpg" class="d-block w-100" alt="Image 3 Description">
+      <img src="images/homepage3.png" class="d-block w-100" alt="Image 3 Description">
     </div>
     <!-- 可以继续添加更多的carousel-item -->
   </div>
@@ -34,7 +34,7 @@ redirect_from:
 
 This is the github home page of my Multimedia Intelligent Processing and Computer Aided Diagnostic Lab. I'm Yue Guanghui, the head of the laboratory. I obtained my master degree (supervised by [Lin Weisi](https://pages.github.com/)) and PhD degree (supervised by [Lin Weisi](https://pages.github.com/)) from Tianjin  University in 2019 (master-doctor continuous study program). From 2017 to 2019, I worked as a visiting student in the research group of [Prof. Lin Weisi](https://pages.github.com/) (IEEE/IET Fellow), School of Computer Science and Engineering, Nanyang Technological University, Singapore. My research group and I are mainly engaged in the research of medical image analysis, computer-aided diagnosis, image/video quality assessment and optimization, machine learning and their applications. **If you are interested in our research or would like to join us, I would be honored to have you contact me.**
 
-RECENT NEWS
+RESENT NEWS
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
