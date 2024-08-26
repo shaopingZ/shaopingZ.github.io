@@ -7,6 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Carousel Start -->
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/image1.png" class="d-block w-100" alt="Image 1 Description">
+    </div>
+    <div class="carousel-item">
+      <img src="images/image2.png" class="d-block w-100" alt="Image 2 Description">
+    </div>
+    <div class="carousel-item">
+      <img src="images/image3.png" class="d-block w-100" alt="Image 3 Description">
+    </div>
+    <!-- 可以继续添加更多的carousel-item -->
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>
+<!-- Carousel End -->
+
 This is the github home page of my Multimedia Intelligent Processing and Computer Aided Diagnostic Lab. I'm Yue Guanghui, the head of the laboratory. I obtained my master degree (supervised by [Lin Weisi](https://pages.github.com/)) and PhD degree (supervised by [Lin Weisi](https://pages.github.com/)) from Tianjin  University in 2019 (master-doctor continuous study program). From 2017 to 2019, I worked as a visiting student in the research group of [Prof. Lin Weisi](https://pages.github.com/) (IEEE/IET Fellow), School of Computer Science and Engineering, Nanyang Technological University, Singapore. My research group and I are mainly engaged in the research of medical image analysis, computer-aided diagnosis, image/video quality assessment and optimization, machine learning and their applications. **If you are interested in our research or would like to join us, I would be honored to have you contact me.**
 
 RECENT NEWS
