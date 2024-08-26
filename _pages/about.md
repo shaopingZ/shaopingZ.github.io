@@ -32,6 +32,7 @@ This is the github home page of my Multimedia Intelligent Processing and Compute
   </a>
 </div>
 <!-- Carousel End -->
+<script src="/assets/js/custom.js"></script>
 
 RESENT NEWS 
 ======
