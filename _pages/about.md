@@ -9,29 +9,53 @@ redirect_from:
 
 This is the github home page of my Multimedia Intelligent Processing and Computer Aided Diagnostic Lab. I'm Yue Guanghui, the head of the laboratory. I obtained my master degree (supervised by [Lin Weisi](https://pages.github.com/)) and PhD degree (supervised by [Lin Weisi](https://pages.github.com/)) from Tianjin  University in 2019 (master-doctor continuous study program). From 2017 to 2019, I worked as a visiting student in the research group of [Prof. Lin Weisi](https://pages.github.com/) (IEEE/IET Fellow), School of Computer Science and Engineering, Nanyang Technological University, Singapore. My research group and I are mainly engaged in the research of medical image analysis, computer-aided diagnosis, image/video quality assessment and optimization, machine learning and their applications. **If you are interested in our research or would like to join us, I would be honored to have you contact me.**
 
-<!-- Carousel Start -->
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/images/homepage1.png" class="d-block w-100" alt="Image 1 Description">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Academic Page</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <!-- Your content here -->
+
+  <div id="carouselExampleControls" class="carousel slide">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/assets/images/image1.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="/assets/images/image2.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="/assets/images/image3.jpg" class="d-block w-100" alt="...">
+      </div>
     </div>
-    <div class="carousel-item">
-      <img src="/images/homepage2.png" class="d-block w-100" alt="Image 2 Description">
-    </div>
-    <div class="carousel-item">
-      <img src="/images/homepage3.png" class="d-block w-100" alt="Image 3 Description">
-    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </a>
-</div>
-<!-- Carousel End -->
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  
+  <!-- Popper.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  
+  <!-- Bootstrap JS -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <!-- Your custom JavaScript -->
+  <script src="/assets/js/custom.js"></script>
+</body>
+</html>
+
 
 RESENT NEWS 
 ======
@@ -71,5 +95,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-<script src="/assets/js/custom.js"></script>
